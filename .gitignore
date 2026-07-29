@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+# 生成产物(按需保留可删此行)
+sample_catalog.html
+sample_catalog.pdf
