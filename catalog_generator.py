@@ -51,7 +51,7 @@ html,body{margin:0;padding:0;font-family:'Noto Sans CJK SC','Noto Sans SC',sans-
 a{color:%(accent)s;text-decoration:none;}
 .wrap{max-width:960px;margin:0 auto;padding:0 18px 40px;}
 .cover{height:100vh;min-height:%(minh)spx;background:%(brand)s;position:relative;display:flex;flex-direction:column;justify-content:flex-end;color:#fff;}
-.cover::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,30,48,.35) 0%%,rgba(11,30,48,.78) 100%);}
+.cover::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,30,48,.35) 0%%,rgba(11,30,48,.78) 100%%);}
 .cover .inner{position:relative;z-index:2;padding:48px 44px 54px;}
 .cover .logo{font-weight:800;letter-spacing:2px;font-size:15px;opacity:.9;}
 .cover h1{font-size:46px;margin:18px 0 6px;line-height:1.05;font-weight:800;letter-spacing:1px;}
