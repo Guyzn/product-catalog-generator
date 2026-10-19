@@ -26,7 +26,10 @@
 catalog_generator.py   主程序(排版引擎 + render_pdf + compress_images + ocr_verify)
 sample_data.py         示例：占位公司 + 4 个公开牌号(数据源自公开标准)
 config.example.py      你的品牌配置样例(改成自己的即可)
+SKILL.md               Skill 打包(触发词 + 路由边界 + 标准用法)
 ```
+
+> **与本仓库配套的姊妹 Skill**：[industrial-print-skill](https://github.com/Guyzn/industrial-print-skill) —— 设计驱动的印刷级排版引擎（D 对开 Catalog / E 单页作品集 / F 单页技术数据）。分工口诀：**数据在手求快 → 本仓库流水线；版式求精求送印 → industrial-print-skill。**
 
 ---
 
